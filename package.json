@@ -1,0 +1,25 @@
+{
+  "name": "react-native-device-year-class",
+  "version": "0.0.1",
+  "description": "Wrapper for Facebook's Device Year Class library to decide performance of devices.",
+  "main": "index.js",
+  "repository": "git@github.com:IMGGaming/react-native-device-year-class.git",
+  "author": "bahman <basadi@endeavorco.com>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "react": "16.0.0",
+    "react-native": "0.49.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
+}
