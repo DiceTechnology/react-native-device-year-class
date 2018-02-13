@@ -13,6 +13,6 @@ android {
 }
 
 dependencies {
-  compile 'com.facebook.react:react-native:0.49.+'
+  compile 'com.facebook.react:react-native:+'
   compile 'com.facebook.device.yearclass:yearclass:1.0.1'
 }
